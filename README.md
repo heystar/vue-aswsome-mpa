@@ -28,35 +28,35 @@ npm run lint
 ```
 '@': 'src',
 ```
-</br>
+
 ```
 '@components': 'src/components',
 ```
-</br>
+
 ```
 '@assets': 'src/assets',
 ```
-</br>
+
 ```
 '@utils': 'src/utils',
 ```
-</br>
+
 ```
 '@store': 'src/store',
 ```
-</br>
+
 ```
 '@api': 'src/api',
 ```
-</br>
+
 ```
 '@mixin': 'src/styles/index.scss',
 ```
-</br>
+
 ```
 '@plugins': 'src/plugins'
 ```
-</br></br>
+
 不要使用../寻址
 
 
