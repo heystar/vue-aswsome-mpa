@@ -4,7 +4,7 @@
     <HelloWorld msg="Welcome to Your MUTLIPLE PAGE Vue.js App"/>
     <div>
       <van-button target="_blank" type="default">首页</van-button>
-      <van-button tag="a" href="/subModuleA.html" target="_blank" type="primary">模块A</van-button>
+      <van-button tag="a" href="/subModuleA.html?code=1000&openId=000000000" target="_blank" type="primary">模块A</van-button>
       <van-button tag="a" href="/subModuleB.html" target="_blank" type="danger">模块B</van-button>
     </div>
   </div>
